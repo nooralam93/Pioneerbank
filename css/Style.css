@@ -1,5 +1,6 @@
 body{
     padding: 100px;
+    background-color:azure;
 }
 .submit-area{
     margin-top: 50px;
@@ -7,6 +8,9 @@ body{
     border-radius: 10px;
     box-shadow: 5px 5px 10px gray;
    
+}
+.enter{
+    width: 100px;
 }
 #transaction-area{
     display: none;
